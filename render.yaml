@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: agentic-rag-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: CHROMA_PERSIST_DIR
+        value: /tmp/chroma_data
+      - key: MAX_RETRIEVAL_ITERATIONS
+        value: "2"
+      - key: ANONYMIZED_TELEMETRY
+        value: "false"
+      - key: BASELINE_MODE
+        value: "false"

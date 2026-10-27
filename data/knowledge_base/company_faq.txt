@@ -1,0 +1,5 @@
+Acme Corp was founded in 2019 in Lucknow, India.
+The CEO is Priya Sharma.
+Acme builds logistics software for small retailers.
+Their flagship product is RouteMate, launched in 2022.
+Acme has 45 employees and raised $2M in seed funding.

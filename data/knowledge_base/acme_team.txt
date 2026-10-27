@@ -1,0 +1,8 @@
+Priya Sharma is the CEO and co-founder of Acme Corp.
+Arjun Mehta is the co-founder and Head of Engineering.
+Kavya Iyer is the Head of Product, joined in 2021.
+Rohit Verma is the Head of Sales, joined in 2023.
+The company has 45 employees as of 2024.
+The engineering team has 18 members.
+The sales team has 9 members and operates across 3 regions.
+Acme has offices in Lucknow, Delhi, and Bengaluru.
