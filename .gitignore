@@ -1,7 +1,7 @@
 chroma_data/
 venv/
 .env
-eval_report*.json
+eval_report.json
 body.json
 __pycache__/
 *.pyc
