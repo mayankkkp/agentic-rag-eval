@@ -1,0 +1,113 @@
+{
+  "total_cases": 13,
+  "avg_faithfulness": 5.0,
+  "avg_relevance": 5.0,
+  "refusal_accuracy": 0.9230769230769231,
+  "avg_iterations": 1.3846153846153846,
+  "results": [
+    {
+      "question": "Who is the CEO of Acme Corp?",
+      "answer": "The CEO of Acme Corp is Priya Sharma [1], [2], [4].",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": true,
+      "iterations": 0
+    },
+    {
+      "question": "When was Acme Corp founded?",
+      "answer": "Acme Corp was founded in 2019 [1], [2], [3].",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": true,
+      "iterations": 0
+    },
+    {
+      "question": "What is Acme's flagship product?",
+      "answer": "Acme's flagship product is RouteMate [1], [2], [3].",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": true,
+      "iterations": 0
+    },
+    {
+      "question": "How much funding did Acme raise?",
+      "answer": "Acme raised $2M in seed funding [1, 2, 3].",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": true,
+      "iterations": 0
+    },
+    {
+      "question": "Who is the Head of Engineering at Acme?",
+      "answer": "I don't have enough information to answer that.",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": false,
+      "iterations": 3
+    },
+    {
+      "question": "What pricing does RouteMate use?",
+      "answer": "RouteMate starts at \u00e2\u201a\u00b92,999 per month [1].",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": true,
+      "iterations": 0
+    },
+    {
+      "question": "Who are Acme's main competitors?",
+      "answer": "Based on the provided context, Acme Corp competes with LogiNext, Delhivery's logistics division, and FarEye [1].",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": true,
+      "iterations": 0
+    },
+    {
+      "question": "When did Acme reach profitability?",
+      "answer": "Acme reached profitability in Q4 2024 [1].",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": true,
+      "iterations": 0
+    },
+    {
+      "question": "Who is Acme's CTO?",
+      "answer": "I don't have enough information to answer that.",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": true,
+      "iterations": 3
+    },
+    {
+      "question": "What is Acme's revenue in 2025?",
+      "answer": "I don't have enough information to answer that.",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": true,
+      "iterations": 3
+    },
+    {
+      "question": "What is Acme's stock ticker symbol?",
+      "answer": "I don't have enough information to answer that.",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": true,
+      "iterations": 3
+    },
+    {
+      "question": "What is the recipe for chocolate cake?",
+      "answer": "I don't have enough information to answer that.",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": true,
+      "iterations": 3
+    },
+    {
+      "question": "Who won the 2022 FIFA World Cup?",
+      "answer": "I don't have enough information to answer that.",
+      "faithfulness": 5,
+      "relevance": 5,
+      "refusal_correct": true,
+      "iterations": 3
+    }
+  ]
+}
