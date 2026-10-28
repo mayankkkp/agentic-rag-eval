@@ -3,10 +3,9 @@
 A retrieval-augmented generation (RAG) agent that **grades its own retrieval**, **rewrites failed queries**, and **refuses to answer** when the knowledge base doesn't contain the answer — instead of hallucinating. Built with LangGraph, FastAPI, ChromaDB, and Gemini, with a Streamlit dashboard for live querying and evaluation results.
 
 **Live demo:** https://agentic-rag-dashboard.onrender.com 
-**Evaluation dashboard:** https://agentic-rag-dashboard-xxxx.onrender.com  
 **API:** https://agentic-rag-api-snmw.onrender.com
 
-> Replace the dashboard URL with your actual Render URL once the second service is live.
+
 
 ---
 
